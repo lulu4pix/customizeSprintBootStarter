@@ -1,0 +1,24 @@
+{
+  "groups": [
+    {
+      "name": "demo",
+      "type": "com.demo.starter.properties.DemoProperties",
+      "sourceType": "com.demo.starter.properties.DemoProperties"
+    }
+  ],
+  "properties": [
+    {
+      "name": "demo.say-what",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.properties.DemoProperties",
+      "defaultValue": "hello"
+    },
+    {
+      "name": "demo.to-who",
+      "type": "java.lang.String",
+      "sourceType": "com.demo.starter.properties.DemoProperties",
+      "defaultValue": "shi"
+    }
+  ],
+  "hints": []
+}
